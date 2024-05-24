@@ -1,0 +1,39 @@
+SQL Server
+
+	1. SQL Constraints
+		a. Default Constraint
+		b. UNIQUE KEY constraint
+		c. NOT NULL constraint
+		d. CHECK KEY constraint
+		e. PRIMARY KEY constraint
+		f. FOREIGN KEY constraint.
+		
+	2. Clause
+		a. Where Clause
+		b. Group By Clause
+		c. Order By Clause
+		d. Having Clause
+		e. TOP n
+	3. Joins
+		a. Inner Join
+		b. Left Join
+		c. Right Join
+		d. Full Join
+		e. Self Join
+	4. Transactions
+		a. Begin Transaction
+		b. Commit Transaction
+		c. Rollback Transaction
+		d. Save Transaction
+	5. Indexes
+		a. Clustered Index
+		b. Non-Clustered Index
+	6. Stored Procedure
+	7. Function
+	8. Triggers
+	9. Truncate/Drop/Delete
+	10. Views
+	11. Temporary Table
+	12. Normalization
+	13. Union/ Union All
+	
