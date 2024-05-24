@@ -1,0 +1,17 @@
+	1. Page Life cycle
+	2. State management
+		a. Client-Side State Management
+			i. Cookies
+			ii. Hidden Field
+			iii. View State
+			iv. Query State
+		b. Server-Side State Management
+			i. Session State
+			ii. Application State
+			iii. Caching
+	3. Cookies
+	4. Caching
+		a. Page Output Caching
+		b. Fragment Caching
+		c. Data Caching
+Difference between Server.Transfer and Response.Transfer
