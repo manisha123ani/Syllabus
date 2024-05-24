@@ -1,0 +1,21 @@
+	1. ASP. Net web form v/s Asp .NET MVC
+	2. MVC Life Cycle
+	3. Feature of Asp.Net MVC
+	4. Controller
+	5. Action return types
+	6. Routing
+		a. Convention Based
+		b. Attribute Based
+	7. ViewData /ViewBag/TempData
+	8. Partial View
+		a. Partial()
+		b. RenderPartial()
+		c. RenderAction()
+	9. Filter
+		a. Authorization Filter
+		b. Action Filter
+		c. Result Filter
+		d. Exception Filter
+	10. Data Annotation
+	11. Area
+	12. Bundling and Minification
