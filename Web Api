@@ -1,0 +1,16 @@
+	1. Web Api and use cases of it
+	2. Difference between Web Api and WCF
+	3. Http Verbs/method
+	4. Rest guidelines
+	5. Authentication in Web Api
+		a. Basic Authentication
+		b. API Key Authentication
+		c. Toke-Based Authentication
+		d. JWT Authentication
+	6. Return Types in Web Api
+	7. MediaTypeFormatter
+	8. Response codes in Web Api
+	9. Routing in Web Api
+		a. Convention-Based Routing
+		b. Attribute Based Routing
+	10. Swagger in Web API
