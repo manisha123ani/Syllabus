@@ -1,19 +1,20 @@
 1.	Difference between Class and Struct
 2.	What is Boxing and Unboxing
-3.	Difference between List class and IEnumerable
-4.	Difference between FirstOrDefault and SigleOrDefault method
-5.	What is launch.settings.json file
-6.	Difference between AddScoped and Transient
-7.	Difference between Rest and Soap
-8.	Can we post value using GET method?
-9.	Difference between POST and PUT?
-10.	Difference between PUT and Patch?
-11.	Data binding in Angular
-12.	How to send the from parent to child component in Angular?
-13.	Services in Angular
-14.	Difference between Promise and Observable in Angular
-15.	What is difference between Union and Primary Key?
-16.	What is composite primary key in SQL?
-17.	What is View
-18.	Difference between View and Temporary Table?
-19.	Clustered Index
+3.	Difference between Abstract class and Interface
+4.	Difference between List class and IEnumerable
+5.	Difference between FirstOrDefault and SigleOrDefault method
+6.	What is launch.settings.json file
+7.	Difference between AddScoped and Transient
+8.	Difference between Rest and Soap
+9.	Can we post value using GET method?
+10.	Difference between POST and PUT?
+11.	Difference between PUT and Patch
+12.	Data binding in Angular
+13.	How to send the from parent to child component in Angular?
+14.	Services in Angular
+15.	Difference between Promise and Observable in Angular
+16.	What is difference between Union and Primary Key?
+17.	What is composite primary key in SQL?
+18.	What is View
+19.	Difference between View and Temporary Table
+20.	Clustered Index
