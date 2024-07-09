@@ -1,25 +1,25 @@
 C# Syllabus
 1.	Access Modifier
-i.	Public
-ii.	Private
-iii.	Protected
-iv.	Internal
+  i.	Public
+  ii.	Private
+  iii.	Protected
+  iv.	Internal
 2.	Constructor 
-i.	Default Constructor
-ii.	Parameterized Constructor
-iii.	Copy Constructor
-iv.	Static Constructor
+  i.	Default Constructor
+  ii.	Parameterized Constructor
+  iii.	Copy Constructor
+  iv.	Static Constructor
 v.	Private Constructor
 3.	Destructor
 4.	Garbage Collector
 5.	Difference between Finalize and Dispose
 6.	Boxing And Unboxing
 7.	OOPS
-a)	Abstraction
-b)	Encapsulation
-c)	Inheritance
-d)	Polymorphism
-e)	Overloading and Overriding
+  a)	Abstraction
+  b)	Encapsulation
+  c)	Inheritance
+  d)	Polymorphism
+  e)	Overloading and Overriding
 8.	Is-A Relationship and Has-A Relationship
 9.	Generalization and Specialization
 10.	 Difference between Abstract class and Interface
@@ -34,39 +34,39 @@ e)	Overloading and Overriding
 19.	 Difference between Private and Sealed Class
 20.	 Extension Class
 21.	 Exception Handling
-i.	Try and Catch
-ii.	Throw and throws
-iii.	Finally
+  i.	Try and Catch
+  ii.	Throw and throws
+  iii.	Finally
 22.	 Multithreading
-i.	Thread and its method
-ii.	Thread Synchronization
-iii.	Lock in C#
-iv.	Deadlock in C#
-v.	Thread Pool in C#
-vi.	Thread Life Cycle
-vii.	Thread Life Cycle
-viii.	Thread Priorities
+  i.	Thread and its method
+  ii.	Thread Synchronization
+  iii.	Lock in C#
+  iv.	Deadlock in C#
+  v.	Thread Pool in C#
+  vi.	Thread Life Cycle
+  vii.	Thread Life Cycle
+  viii.	Thread Priorities
 23.	 Asynchronous Programming
 24.	 Async and Await in C#
 25.	 Assembly
 26.	 Generics
 27.	 Delegates
-a.) Multicast Delegates
-b.) Anonymous Method
-c.) Lambda Expression
+  a.) Multicast Delegates
+  b.) Anonymous Method
+  c.) Lambda Expression
 28.	 Array
 29.	 Collection
-i.	Generic Collection
-ii.	Non-Generic Collection
+  i.	Generic Collection
+  ii.	Non-Generic Collection
 30.	 Non-Generic Collection
-i.	ArrayList
-ii.	HashTable
-iii.	Stack
-iv.	Queue
+  i.	ArrayList
+  ii.	HashTable
+  iii.	Stack
+  iv.	Queue
 
 31.	 Generic Collection
-i.	Dictionary <TKey, TValue>
-ii.	List<TKey, TValue>
+  i.	Dictionary <TKey, TValue>
+  ii.	List<TKey, TValue>
 32.	 Difference between Array and ArrayList
 33.	 Difference between ArrayList and HashTable
 34.	 Difference between List and Dictionary
