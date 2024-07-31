@@ -1,0 +1,21 @@
+ .NET Core
+Difference between .NET Core and .Net Framework
+Middleware in .NET Core
+ConfigureService and Configure Method
+Hosting Model
+i. InProcess Hosting Model
+ii. OutOfProcess Hosting Model
+AddSingleton, AddScoped and AddTransient Method
+Request Delegate
+i.Run()
+ii. Use()
+iii. Map()
+Kestrel Web Server
+Difference between kestral web server and IIS Web Server
+LaunchSettings.json file
+appSettings.json file
+CORS in ASP.Net Core
+In-memory Caching
+Distributed Caching
+Error Handling
+Dependency Injection.
