@@ -2,14 +2,39 @@
 Company—Capgemini 
 ============================================
 1.	Difference between ref and out keyword
-2.	What is extension method
+2.	What is an extension method
 3.	How to do memory management
-4.	What is Garbage collector
+4.	What is a Garbage collector
 5.	What is using keyword
 6.	Static class
 7.	Sealed class
-8.	Difference between Abstract method and Interface
+8.	Difference between the Abstract method and Interface
 9.	SOLID principle—Kiskov Substitution Principle
 10.	Singleton Design pattern
-11.	Write program for String Palindrome
+11.	Write a program for String Palindrome
+================================================
+1. What are the Async and Await keywords and why do we use them?
+2 What is Task Parallel Library (TPL) in C#?
+3. What is Task run() in C#?
+4. What is a reference type in C#?
+5. Dependency Injection in C#
+6. Delegate and use cases of it.
+7. Performance tuning
+8. Reflection in C#
+9. Late and Early binding in C#
+10. What is REST?
+11. Difference between PUT and POST?
+12. What is Configure.Await method
+13. Differences between Concurrency and Parallelism
+14. Liskov Substitution Principle
+15. Difference between Middleware and Filter 
+16. Use of Using block
+17. What is difference between Integration Test and Unit test?
+18. How to secure Your service in WEb API
+19. How to improve performance of API?
+20. Difference between Dispose and Finalize in C#
+21. How to perform authentication in Web API
+22. Session management in MVC
+23. Filters in MVC
+
 
