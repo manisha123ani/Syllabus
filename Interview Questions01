@@ -29,7 +29,7 @@ Company—Capgemini
 14. Liskov Substitution Principle
 15. Difference between Middleware and Filter 
 16. Use of Using block
-17. What is the difference between an Integration Test and a Unit test?
+17. What is the difference between Integration Test and Unit test?
 18. How to secure Your service in WEb API
 19. How to improve the performance of API?
 20. Difference between Dispose and Finalize in C#
@@ -37,5 +37,16 @@ Company—Capgemini
 22. Session management in MVC
 23. Filters in MVC
 24. What is media formatter in Web API
-
+==========================================================
+1. Difference between API Controller and MVC Controller
+2. Authentication in WEB API
+3. Different type of action return type in MVC
+4. Difference between For and Foreach
+5. How to fix if you are getting 500(internal server error) after hosting the application in IIS Server
+6. 3rd party grid in MVC
+7. Functions and User defined function in SQL
+8. Temporary table in SQL
+9. If you are doing code review then what are the thing you will focus on?
+10. How to get the task?
+11. Roles and responsibilities
 
